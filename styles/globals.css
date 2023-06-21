@@ -86,9 +86,9 @@ a {
 }
 
 .footer[data-visble="true"] {
-  position: absolute;
+  /* position: absolute;
   bottom: -10rem;
-  width: 100%;
+  width: 100%; */
   visibility: hidden;
 }
 

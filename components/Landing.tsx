@@ -52,7 +52,7 @@ export default function Landing () {
 
 
     return (
-    <>
+    <div className="t">
         <div
         className="landing" id='landing' data-visble="false"
         style={{ backgroundImage: `url(${images[currentIndex % images.length]})` }}
@@ -97,7 +97,8 @@ export default function Landing () {
             size={30}
             />
         </div>
+        <img className='clients' alt="Prizma Clients" src="https://www.prizma-il.com/wp-content/uploads/2019/01/%D7%9C%D7%95%D7%92%D7%95%D7%90%D7%99%D7%9D-01-1024x595.png"/>
         </div>
-    </>
+    </div>
     );
 };
