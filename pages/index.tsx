@@ -11,7 +11,7 @@ export default function Home() {
         <Landing/>
         <footer  className='footer' data-visble='true'>
           <div  id='buttom' className='footer-content'>
-            <h1>כל הזכויות שמורות לפריזמה פתרונות מתקדמים בע"מ</h1>
+            <h1>כל הזכויות שמורות לפריזמה פתרונות מתקדמים בע&quot;מ</h1>
             <a>Created by @Yoav Polakovsky</a>
           </div>
         </footer>

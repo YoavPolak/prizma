@@ -34,7 +34,7 @@ export default function about() {
                         <img src='https://www.prizma-il.com/wp-content/uploads/2018/10/zachi.jpg' className="ceo"/>
                         <div>
                             <h1>צחי פולקובסקי</h1>
-                            <h4 dir="rtl"><b>מנכ"ל פריזמה</b></h4>
+                            <h4 dir="rtl"><b>מנכ&quot;ל פריזמה</b></h4>
                             <h4 dir="rtl"><b>zachi@prizma2002.co.il</b></h4>
                         </div>
                     </div>
@@ -54,7 +54,7 @@ export default function about() {
                     <div className="card" data-visible="true">
                         <img src='https://www.prizma-il.com/wp-content/uploads/2018/10/IMG-20170905-WA0004.jpg' className="ceo"/>
                         <div>
-                            <h1>ג'וליאן בניון</h1>
+                            <h1>ג&quot;וליאן בניון</h1>
                             <h4 dir="rtl"><b>מנהל ייצור</b></h4>
                             <h4 dir="rtl"><b>julien@prizma2002.co.il</b></h4>
                         </div>
