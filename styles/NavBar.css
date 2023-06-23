@@ -36,7 +36,6 @@ nav {
 .navbar-scrolled {
     transition: 0.3s;
     background-color:rgb(31, 29, 29);
-    border: 1px solid rgb(31, 29, 29);
     box-shadow: 2px 2px 20px #000000;
 }
   
@@ -108,7 +107,7 @@ nav .navItem.active::after {
 
     .mobile-nav-toggle {
         display: block;
-        position: absolute;
+        position: fixed;
         z-index: 9999;
         background-color: transparent;
         background-image: url('../public/menu.svg');

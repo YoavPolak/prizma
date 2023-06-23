@@ -51,7 +51,7 @@ export default function ContactForm() {
           <button type="button" className="popup-button" onClick={closePopup}>OK</button>
         </div>
       
-      <h1 className="contact-header">טופס ליצרת קשר</h1>
+      <h1 className="py-4 text-4xl font-bold text-center text-[#001b5e] shadow-md">Contact</h1>
       
       <form dir="rtl" onSubmit={submitHandler} className="contact-form">
         <label htmlFor="name">שם:</label>
