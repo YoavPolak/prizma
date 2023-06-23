@@ -83,13 +83,13 @@ export default function App({ Component, pageProps }: AppProps) {
     </div>
 
     <Component {...pageProps} />
-    { footerVisible && (
+{/*     { footerVisible && (
       <footer  id='webfooter' className='footer'>
         <div  id='buttom' className='footer-content'>
           <h1>כל הזכויות שמורות לפריזמה פתרונות מתקדמים בע&quot;מ</h1>
           <a>Created by @Yoav Polakovsky</a>
         </div>
-      </footer>
+      </footer> */}
     )}
   </>
   )
